@@ -3,7 +3,7 @@
 
 <h1>💫About Me:</h1>
 
-<img aling="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/a54ad796-c9d6-4f2d-bd08-e6f6e2a59412">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 
 - 🔭 I’m currently working on **MERN Stack**
