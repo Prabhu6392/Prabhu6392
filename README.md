@@ -3,7 +3,7 @@
 
 <h1>💫About Me:</h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"/>
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"/>
 
 
 - 🔭 I’m currently working on **MERN Stack**
